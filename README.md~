@@ -8,9 +8,6 @@ To generate different dataset, look at the methods of `Ball.java` and
 `StdDraw.java`. The code is easily understandable!
 
 Most of the code in this repo is taken from the site [http://algs4.cs.princeton.edu/code/]
-
-The repo also contains MNIST digits separately in `numbers` directory. You can play
-with that too if you want to generate `Bouncing MNIST dataset`.
  
 
 
